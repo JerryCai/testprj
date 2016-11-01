@@ -1,5 +1,6 @@
 package com.github.testprj.config;
 
+import com.googlecode.openbox.config.ConfigIndex;
 import com.googlecode.openbox.config.ConfigLoader;
 
 
